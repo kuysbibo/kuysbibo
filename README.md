@@ -1,7 +1,6 @@
 # Hi, I'm Tristan James Cabrera! 👋
 
-🎓 Information Technology Student focusing on web development and UI/UX design.  
-I build responsive applications using Laravel, Bootstrap 5, PHP, MySQL, JavaScript, and Java.
+🎓 BS Information Technology Student | Davao Del Norte State College.
 
 ---
 
